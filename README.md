@@ -1,1 +1,1 @@
-# Predicting_Life_Expectency_Regression
+# Predicting_Life_Expectancy_Regression
